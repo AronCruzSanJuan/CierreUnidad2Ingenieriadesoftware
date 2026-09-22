@@ -19,7 +19,7 @@
 | 2 | Consultar todos los reportes | Muestra el listado completo de incidencias registradas en la base de datos |
 | 3 | Filtrar incidencias críticas | Muestra únicamente los reportes con estado 'Pendiente' y prioridad 'Alta' |
 | 4 | Actualizar estado de reporte | Cambia la condición de la incidencia (Pendiente, En proceso, Resuelto) |
-| 5 | Borrar reporte | Elimina un registro de la base de datos seleccionándolo por su número de ID git add docs/cierre_unidad2.md|
+| 5 | Borrar reporte | Elimina un registro de la base de datos seleccionándolo por su número de ID|
 
 ## 2.6 Entorno de desarrollo justificado
 
